@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+../../Python/jupyter/api/hw_config.py
+
